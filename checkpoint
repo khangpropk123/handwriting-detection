@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/tuankhang/PycharmProjects/TF_HandWriting/handwriting_128.tflearn"
+all_model_checkpoint_paths: "/Users/tuankhang/PycharmProjects/TF_HandWriting/handwriting_128.tflearn"
