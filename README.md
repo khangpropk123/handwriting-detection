@@ -1,6 +1,5 @@
 # handwriting-detection
-Basic Example to train your model to detect A,B,C,D handwriting 
-
+Basic Example to train your model to detect A,B,C,D handwriting for automarking multiple choice exam
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install lib.
